@@ -2,7 +2,7 @@ class Main
 {
  public static void main(String[] args)
  {
-  int a[][]=new int[][]{{1,2,3},{4,5,6},{7,8,9}};
+  int a[][]=new int[][]{{1,2,3},{10,20,30},{11,22,33}};
   //int b[][]=new int[3][3];
   Main m=new Main();
   int res[][]=m.diagonals(a);
